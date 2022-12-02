@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @itsmeakarshan
-- 👀 I’m interested in coding, esports
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ... a 
-- 📫 How to reach me ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C, c++, python
+- 💞️ I’m looking to job
+- 📫 Mail me at @akarshanrasyal4@gmail.com
 
-<!---
-itsmeakarshan/itsmeakarshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
