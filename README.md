@@ -1,410 +1,514 @@
-# 👋 Hey, I'm Akarshan Rasyal
+<div align="center">
 
-### MSc Data Science Graduate • AI & Machine Learning • Python & SQL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=220&section=header&text=AKARSHAN%20RASYAL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  <a href="mailto:akarshanrasyal4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akarshanrasyal4%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+# 👋 Hey, I'm Akarshan
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=header"/>
-</p>
+### `AI & Machine Learning` • `Data Science` • `Python` • `SQL`
 
----
+<br/>
 
-## 🧠 About Me
+<a href="https://github.com/itsmeakarshan">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:akarshanrasyal4@gmail.com">
+<img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I'm an **MSc Data Science graduate** based in Newcastle upon Tyne, UK, specialising in **Python, SQL, Machine Learning and AI**.
+<br/><br/>
 
-I enjoy turning real-world problems into **end-to-end intelligent applications** — from data processing and machine learning to APIs, AI assistants, deployment and user-facing products.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Turning+data+into+useful+products;Machine+Learning+%7C+RAG+%7C+LLMs;Python+%7C+SQL+%7C+AWS+%7C+Docker"/>
 
-My work spans:
-
-* 🤖 Machine Learning & Predictive Analytics
-* 🧠 LLMs, RAG & AI Applications
-* 📊 Customer Intelligence & Forecasting
-* 🎥 Computer Vision & Video Intelligence
-* 💬 NLP & Conversational AI
-* 🗄️ Data Engineering & SQL
-* ☁️ AWS, Docker & MLOps
-* 📈 Data Quality & Model Monitoring
-
-> **I don't just build models — I build systems around them.**
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🧑‍💻 `$ whoami`
 
-## 🎥 Video Intelligence Platform
+```python
+class Akarshan:
 
-### AI-powered educational video intelligence, prediction & recommendation
+    name = "Akarshan Rasyal"
+    location = "Newcastle upon Tyne, UK"
+    education = "MSc Data Science"
+    
+    focus = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "NLP",
+        "Forecasting",
+        "Customer Intelligence"
+    ]
 
-An end-to-end AI platform that transforms educational videos into **searchable and interactive knowledge**.
-
-### What it can do
-
-* 🎬 Upload educational videos or paste YouTube links
-* 🗣️ Convert video content into searchable knowledge
-* 🔎 Semantic search across video content
-* 🤖 Ask questions using an integrated AI chatbot
-* ⏱️ Return **exact clickable timestamps** for answers
-* 📝 Generate AI notes and summaries
-* 🧪 Generate AI quizzes
-* 📊 Predict learner quiz performance
-* 🎯 Recommend videos based on weak topics
-
-### ML Performance
-
-**Extra Trees learner-performance model**
-
-```text
-R²   = 0.861
-MAE  = 3.13%
+    philosophy = "Build systems, not just models."
 ```
 
-The model predicts the next quiz score for unseen learners.
+I'm an **MSc Data Science graduate** specialising in **Python, SQL, Machine Learning and AI**.
 
-### Tech / Concepts
+I enjoy taking real-world problems and turning them into **complete intelligent applications** — from data processing and modelling to AI assistants, deployment and user-facing products.
+
+### ⚡ Currently strongest in
+
+`Python` `SQL` `Machine Learning` `LLMs` `RAG` `NLP` `Forecasting` `AWS` `Docker`
+
+---
+
+# 🌈 `./what-i-build`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🤖
+
+### AI Systems
+
+LLMs
+RAG
+Embeddings
+Vector Search
+Conversational AI
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊
+
+### ML Systems
+
+Prediction
+Classification
+Forecasting
+Clustering
+Model Evaluation
+
+</td>
+
+<td width="33%" align="center">
+
+### ☁️
+
+### Production
+
+AWS
+Docker
+MLOps
+Drift Detection
+End-to-End Apps
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🚀 `./featured-projects`
+
+## 🎥 01 — Video Intelligence Platform
+
+> **AI-powered educational video intelligence, prediction & recommendation**
+
+A complete AI platform that transforms educational videos into **searchable, interactive knowledge**.
+
+### ✨ Features
+
+```text
+🎬 Video Upload / YouTube
+        ↓
+🗣️ Speech-to-Text
+        ↓
+🔎 Semantic Search
+        ↓
+🤖 RAG + AI Chatbot
+        ↓
+⏱️ Exact Video Timestamps
+        ↓
+📝 AI Notes & Summaries
+        ↓
+🧪 AI Quizzes
+        ↓
+📊 Performance Prediction
+        ↓
+🎯 Weak-Topic Recommendations
+```
+
+### 🧠 Machine Learning
+
+**Extra Trees — Learner Performance Prediction**
+
+<div align="center">
+
+|   Metric   |   Result  |
+| :--------: | :-------: |
+|  🟣 **R²** | **0.861** |
+| 🟢 **MAE** | **3.13%** |
+
+</div>
+
+### 🧰 Stack
 
 `Python` `Machine Learning` `RAG` `LLMs` `Semantic Search` `Speech-to-Text` `Conversational AI`
 
-<p>
-  <a href="YOUR_VIDEO_GITHUB_URL">
-    <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_VIDEO_AWS_URL">
-    <img src="https://img.shields.io/badge/Live%20AWS%20Platform-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-  <a href="YOUR_VIDEO_DEMO_URL">
-    <img src="https://img.shields.io/badge/Watch%20Demo-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
-## 🛒 AI Retail Intelligence & Prediction Platform
+# 🛍️ 02 — AI Retail Intelligence Platform
 
-### Customer intelligence • Demand forecasting • Pricing • Inventory optimisation
+> **Customer Intelligence + Forecasting + Pricing + Inventory**
 
-Built an end-to-end customer intelligence and pricing platform using:
+Built using a large retail dataset containing:
+
+<div align="center">
+
+### 📦 `797K+`
+
+Transactions
+
+### 👥 `5,939`
+
+Customers
+
+### 🛒 `4,646`
+
+Products
+
+</div>
+
+### 🧠 Intelligence Layer
+
+| Capability                | Purpose                    |
+| ------------------------- | -------------------------- |
+| 📉 Churn Prediction       | Identify customers at risk |
+| 💰 Revenue Forecasting    | Predict customer revenue   |
+| 👥 RFM Segmentation       | Understand customer value  |
+| 📦 Demand Forecasting     | Predict 90-day SKU demand  |
+| 🏷️ Price Elasticity      | Support pricing decisions  |
+| 🔄 Inventory Optimisation | Improve stock planning     |
+
+### 📊 Model Performance
 
 ```text
-797K+ transactions
-5,939 customers
-4,646 products
+Customer Churn
+ROC-AUC ━━━━━━━━━━━━━━━━━━ 0.831
+
+90-Day SKU Demand
+sMAPE    ━━━━━━━━━━━━━━━━━━ 31.84%
 ```
 
-### Machine Learning
-
-* Customer churn prediction
-* Customer revenue forecasting
-* RFM segmentation
-* 90-day SKU demand forecasting
-* Price elasticity analysis
-* Inventory optimisation
-
-### Model Performance
+### 💡 Business Automation
 
 ```text
-Churn ROC-AUC       = 0.831
-Demand sMAPE        = 31.84%
+High-Demand Product
+        ↓
+Reorder Point
+        ↓
+Suggested Order
+        ↓
+Supplier Ordering
+
+At-Risk Customer
+        ↓
+Personalised Offer
+        ↓
+Retention
+
+Expiring Stock
+        ↓
+Inventory Suggestion
+        ↓
+Waste Reduction
 ```
 
-### Business Intelligence
+### ☁️ Production
 
-The platform helps retailers identify:
+`Docker` + `AWS`
 
-* 📉 Customers at risk of churn
-* 💰 High-value customers
-* 📦 Products likely to experience high demand
-* 🔄 When stock needs replenishing
-* 🏷️ Pricing opportunities
-* 🎯 Targeted promotion opportunities
-
-It also includes:
-
-* Safety-stock calculations
-* Reorder-point calculations
-* Suggested-order recommendations
-* Automated supplier ordering
-* Personalised customer offers
-* Expiry tracking
-* PSI / KS drift monitoring
-
-The complete platform was deployed using **Docker on AWS**.
-
-<p>
-  <a href="YOUR_RETAIL_GITHUB_URL">
-    <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_RETAIL_AWS_URL">
-    <img src="https://img.shields.io/badge/Live%20AWS%20Platform-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-  <a href="YOUR_RETAIL_DEMO_URL">
-    <img src="https://img.shields.io/badge/Watch%20Demo-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+Also includes **PSI / KS drift monitoring** for changes in data and model behaviour.
 
 ---
 
-## 🤖 Autonomous Data Science Platform
+# 🤖 03 — Autonomous Data Science Platform
 
-### From raw dataset → automated ML workflow
-
-An AI-powered platform designed to automate much of the machine-learning workflow.
-
-### Automated Pipeline
+> **Give it a dataset → automate the ML workflow**
 
 ```text
-Dataset
-   ↓
-Data Profiling
-   ↓
-Data Quality Checks
-   ↓
-Problem Detection
-   ↓
-Feature Engineering
-   ↓
-Preprocessing
-   ↓
-Model Selection
-   ↓
-Benchmarking
-   ↓
-Champion Model
-   ↓
-Evaluation
-   ↓
-Explainability
-   ↓
-AI Analysis
+┌───────────────────────┐
+│      RAW DATASET      │
+└───────────┬───────────┘
+            ↓
+┌───────────────────────┐
+│   DATA PROFILING      │
+└───────────┬───────────┘
+            ↓
+┌───────────────────────┐
+│   QUALITY CHECKS      │
+└───────────┬───────────┘
+            ↓
+┌───────────────────────┐
+│ PROBLEM DETECTION     │
+└───────────┬───────────┘
+            ↓
+┌───────────────────────┐
+│ FEATURE ENGINEERING   │
+└───────────┬───────────┘
+            ↓
+┌───────────────────────┐
+│ MODEL BENCHMARKING    │
+└───────────┬───────────┘
+            ↓
+┌───────────────────────┐
+│ CHAMPION MODEL        │
+└───────────┬───────────┘
+            ↓
+┌───────────────────────┐
+│ SHAP + EXPLAINABILITY │
+└───────────┬───────────┘
+            ↓
+┌───────────────────────┐
+│      AI ANALYSIS      │
+└───────────────────────┘
 ```
 
-### Advanced ML Safeguards
+### 🛡️ Built-in safeguards
 
-* 🔍 Data leakage detection
-* 🧪 Untouched holdout evaluation
-* 🎯 Threshold optimisation
-* 📊 Cross-validation
-* 🧠 SHAP explainability
-* 🤖 AI-generated evidence-based analysis
-
-<p>
-  <a href="YOUR_AUTODS_GITHUB_URL">
-    <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_AUTODS_DEMO_URL">
-    <img src="https://img.shields.io/badge/Watch%20Demo-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+🟢 Data leakage detection
+🟢 Untouched holdout evaluation
+🟢 Threshold optimisation
+🟢 Cross-validation
+🟢 SHAP explainability
+🟢 Evidence-based AI analysis
 
 ---
 
-## 🚚 Vendor Invoice & Freight Cost Intelligence
+# 🚚 04 — Vendor Invoice Intelligence
 
-An end-to-end invoice intelligence system designed to:
+> **Predict freight costs + identify high-risk invoices**
 
-* Predict vendor freight costs
-* Identify high-risk invoices
-* Flag invoices requiring manual review
-* Provide real-time predictions
+### 🔬 Pipeline
 
-### Work performed
+`SQL Feature Engineering`
 
-`SQL Feature Engineering` `EDA` `Statistical Testing` `Regression` `Classification` `GridSearchCV` `F1 Optimisation`
+↓
 
-Class imbalance was addressed during model optimisation to improve risk detection.
+`EDA`
 
-<p>
-  <a href="YOUR_INVOICE_GITHUB_URL">
-    <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_INVOICE_LIVE_URL">
-    <img src="https://img.shields.io/badge/Live%20Application-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
+↓
+
+`Statistical Testing`
+
+↓
+
+`Regression + Classification`
+
+↓
+
+`GridSearchCV`
+
+↓
+
+`F1 Optimisation`
+
+↓
+
+`Real-Time Prediction`
+
+### 🎯 Focus
+
+* Vendor freight cost prediction
+* High-risk invoice identification
+* Manual-review prioritisation
+* Class imbalance handling
 
 ---
 
-## 💬 NLP Emotion Detection
+# 💬 05 — NLP Emotion Detection
 
-A real-time NLP application that classifies the emotional state expressed in user-provided text.
-
-### Pipeline
+> **Real-time emotion classification from text**
 
 ```text
-Text
- ↓
-Preprocessing
- ↓
-Feature Extraction
- ↓
-Model Training
- ↓
-Evaluation
- ↓
-Prediction
+USER TEXT
+   ↓
+PREPROCESSING
+   ↓
+FEATURE EXTRACTION
+   ↓
+MODEL
+   ↓
+EVALUATION
+   ↓
+EMOTION
 ```
 
-The trained model was deployed as an interactive application.
-
-<p>
-  <a href="YOUR_EMOTION_GITHUB_URL">
-    <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_EMOTION_LIVE_URL">
-    <img src="https://img.shields.io/badge/Live%20Application-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
+Built and deployed as an interactive application using an end-to-end NLP and machine-learning pipeline.
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 `./tech-stack`
 
-### Programming & Data
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite" />
-</p>
+### 🐍 Data & Programming
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br/>
 
 `Python` `SQL` `Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn`
 
-### Machine Learning
+---
 
-`Scikit-learn` `LightGBM` `XGBoost` `Random Forest` `Gradient Boosting`
+### 🤖 Machine Learning
 
-`Regression` `Classification` `Clustering` `Time-Series Forecasting`
+`Scikit-learn` `LightGBM` `XGBoost` `Random Forest`
 
-`Feature Engineering` `Hyperparameter Tuning` `SHAP` `Model Evaluation`
+`Gradient Boosting` `Regression` `Classification`
 
-`Data Quality` `Drift Detection`
+`Clustering` `Time-Series Forecasting`
 
-### AI & NLP
+`Feature Engineering` `Hyperparameter Tuning`
 
-`LLMs` `RAG` `LangChain` `Embeddings` `Vector Search` `NLP`
+`SHAP` `Model Evaluation` `Data Quality` `Drift Detection`
 
-### Databases & Engineering
+---
 
-<p>
+### 🧠 AI / NLP
+
+`LLMs` `RAG` `LangChain`
+
+`Embeddings` `Vector Search` `NLP`
+
+---
+
+### ☁️ Engineering & Cloud
+
 <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,aws,azure" />
-</p>
 
-`PostgreSQL` `SQLite` `SQL Server` `Docker` `Git` `GitHub` `MLOps` `AWS` `Azure`
+<br/>
 
----
+`PostgreSQL` `SQLite` `SQL Server`
 
-# 📊 GitHub Activity
+`Docker` `Git` `GitHub` `MLOps` `AWS` `Azure`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999" />
-</p>
+</div>
 
 ---
 
-# 🧩 How I Think About Data
+# 📊 `./github-stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=itsmeakarshan&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7F00FF&icon_color=00F5A0&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeakarshan&theme=tokyonight&hide_border=true&background=0D1117&ring=7F00FF&fire=00F5A0&currStreakLabel=FFFFFF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeakarshan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7F00FF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# 🧩 `./my-approach`
+
+<div align="center">
 
 ```text
-             REAL-WORLD PROBLEM
-                     │
-                     ▼
-              ┌──────────────┐
-              │     DATA     │
-              └──────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   ANALYSIS    │
-             └──────┬────────┘
-                    │
-                    ▼
-             ┌───────────────┐
-             │  ML / AI      │
-             └──────┬────────┘
-                    │
-                    ▼
-             ┌───────────────┐
-             │   PRODUCT     │
-             └──────┬────────┘
-                    │
-                    ▼
-             ┌───────────────┐
-             │   DEPLOYMENT  │
-             └──────┬────────┘
-                    │
-                    ▼
-             ┌───────────────┐
-             │    IMPACT     │
-             └───────────────┘
+              💡 PROBLEM
+                  │
+                  ▼
+              📦 DATA
+                  │
+                  ▼
+             🔍 ANALYSIS
+                  │
+                  ▼
+             🧠 ML / AI
+                  │
+                  ▼
+             ⚙️ SYSTEM
+                  │
+                  ▼
+              ☁️ CLOUD
+                  │
+                  ▼
+             🚀 PRODUCT
+                  │
+                  ▼
+              📈 IMPACT
 ```
 
----
+</div>
 
-# 🎓 Education
-
-### MSc Data Science
-
-**Northumbria University — Newcastle, UK**
-
-`January 2025 – June 2026`
-
-**Result: 64%**
+> **The goal isn't simply to train a model.**
+>
+> **The goal is to turn intelligence into something people can actually use.**
 
 ---
 
-### Computer Science Engineering
+# 🎓 `./education`
 
-**DBATU — Maharashtra, India**
+### 🎓 MSc Data Science
 
-`January 2020 – July 2024`
+**Northumbria University · Newcastle, UK**
 
-**CGPA: 6.90**
+`January 2025 → June 2026`
 
----
-
-# 🏆 Achievement
-
-### HackerRank SQL — Advanced
-
-🏅 **HackerRank SQL (Advanced) Certification**
+**64%**
 
 ---
 
-# 📫 Let's Connect
+### 💻 Computer Science Engineering
 
-<p align="center">
+**DBATU · Maharashtra, India**
+
+`January 2020 → July 2024`
+
+**6.90 CGPA**
+
+---
+
+# 🏆 `./achievement`
+
+<div align="center">
+
+### 🥇 HackerRank SQL — Advanced
+
+**SQL (Advanced) Certification**
+
+</div>
+
+---
+
+# 📫 `./connect`
+
+<div align="center">
+
+<a href="https://github.com/itsmeakarshan">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="mailto:akarshanrasyal4@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+### Let's build something intelligent. 🚀
 
-</p>
+</div>
 
 <p align="center">
-  <i>Building intelligent systems that turn data into useful products.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C6FF,100:7F00FF&height=140&section=footer"/>
 </p>
