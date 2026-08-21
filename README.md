@@ -13,15 +13,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/akarshanrasyal/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88&logoWidth=20"/>
 </a>
 
-<a href="https://www.instagram.com/akarshanrasyal_/?utm_source=ig_web_button_share_sheet&igsi=ZDNlZDc0MzIxNw==">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF88"/>
-</a>
-
-<a href="mailto:akarshanrasyal4@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
+<a href="https://akarshan.co.uk">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF88"/>
 </a>
 
 <br/><br/>
