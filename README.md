@@ -28,10 +28,29 @@
 
 ---
 
+# 📊 `./github-stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=itsmeakarshan&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF88&icon_color=00D9FF&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeakarshan&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=00D9FF&currStreakLabel=FFFFFF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeakarshan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF"/>
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🟢 `SYSTEM ONLINE`
-
 ```text
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
@@ -431,26 +450,6 @@ The trained model was deployed as an interactive application.
 `PostgreSQL` · `SQLite` · `SQL Server`
 
 `Docker` · `Git` · `GitHub` · `MLOps` · `AWS` · `Azure`
-
-</div>
-
----
-
-# 📊 `./github-stats`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=itsmeakarshan&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF88&icon_color=00D9FF&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeakarshan&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=00D9FF&currStreakLabel=FFFFFF"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeakarshan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF"/>
 
 </div>
 
