@@ -239,12 +239,6 @@ CUSTOMER CHURN
 ROC-AUC
 █████████████████░░░  0.831
 
-
-90-DAY DEMAND FORECAST
-sMAPE
-████████████████░░░░  31.84%
-```
-
 </div>
 
 ### 💼 Business Automation
