@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,40:00D9FF,75:7F00FF,100:00FF88&height=230&section=header&text=AKARSHAN%20RASYAL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,40:00D9FF,75:7F00FF,100:00FF88&height=230&section=header&text=AKARSHAN%20RASYAL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=60&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=780&lines=Building+AI-powered+applications;Turning+data+into+useful+products;Machine+Learning+%7C+RAG+%7C+LLMs;Python+%7C+SQL+%7C+AWS+%7C+Docker;Creating+intelligent+systems+from+data"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=780&lines=Building+AI-powered+and+software+applications;Turning+data+into+useful+products;Data+Science+%7C+AI+%7C+Machine+Learning+%7C+Software+Engineering;Python+%7C+SQL+%7C+AWS+%7C+Docker;Creating+intelligent+systems+from+data+and+code"/>
 
 <br/><br/>
 
@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/akarshanrasyal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88&logoWidth=20"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
 </a>
 
 <a href="https://akarshan.co.uk">
@@ -51,13 +51,14 @@
 <div align="center">
 
 ## 🟢 `SYSTEM ONLINE`
+
 ```text
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
-│   👨‍💻 AKARSHAN RASYAL                                       │ 
+│   👨‍💻 AKARSHAN RASYAL                                       │
 │                                                            │
 │   MSc Data Science Graduate                                │
-│   AI • Machine Learning • Data Science • Software          │
+│   AI • Data Science • Machine Learning • Software          │
 │                                                            │
 │   📍 Newcastle upon Tyne, UK                               │
 │                                                            │
@@ -70,26 +71,58 @@
 
 # 🧑‍💻 `$ whoami`
 
-I'm an **MSc Data Science graduate** and **Bsc Computer Science graduate**   specialising in **Python, SQL, Machine Learning, Software and AI**.
+I'm an **MSc Data Science graduate** and **BSc Computer Science graduate**, specialising in **Data Science, Software Development, Machine Learning and Artificial Intelligence**.
 
-I enjoy solving real-world problems through data and building **end-to-end intelligent systems** — from data processing and modelling to AI applications, deployment and user-facing products.
+I enjoy solving real-world problems through **data and software**, building complete systems from initial ideas to production-ready applications.
 
-My work spans **customer intelligence, forecasting, NLP, computer vision and AI-powered applications**.
+My work combines **data processing, machine learning, AI, backend development, software engineering and cloud deployment**.
 
-> 🟢 **I don't just build models. I build complete systems around them.**
+I build **end-to-end applications** — from data pipelines and intelligent models to APIs, backend systems, user-facing applications and deployment.
 
-### ⚡ Core Focus
+My work spans **customer intelligence, forecasting, NLP, computer vision, AI-powered applications and software systems**.
+
+> 🟢 **I don't just build models. I build complete software systems around them.**
+
+---
+
+# ⚡ `./core-stack`
+
+### 🧠 Data Science & AI
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=0D1117"/>
 <img src="https://img.shields.io/badge/SQL-00D9FF?style=for-the-badge&logo=postgresql&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-7F00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-00FF88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-00FF88?style=for-the-badge"/>
+
+</p>
+
+### 💻 Software Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Software%20Development-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Development-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Development-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-00D9FF?style=for-the-badge&logo=openjdk&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/C%23-7F00FF?style=for-the-badge&logo=dotnet&logoColor=FFFFFF"/>
+
+</p>
+
+### ☁️ Cloud & Production
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/AWS-00FF88?style=for-the-badge&logo=amazonaws&logoColor=0D1117"/>
 <img src="https://img.shields.io/badge/Docker-00D9FF?style=for-the-badge&logo=docker&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/MLOps-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Deployment-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/End--to--End%20Applications-00D9FF?style=for-the-badge"/>
 
 </p>
 
@@ -120,7 +153,7 @@ Conversational AI
 
 ## 📊
 
-### ML SYSTEMS
+### DATA & ML SYSTEMS
 
 Prediction
 Classification
@@ -132,20 +165,38 @@ Model Evaluation
 
 <td width="33%" align="center">
 
-## ☁️
+## 💻
 
-### PRODUCTION
+### SOFTWARE SYSTEMS
 
-AWS
-Docker
-MLOps
-Drift Detection
-End-to-End Apps
+APIs
+Backend Development
+Software Architecture
+End-to-End Applications
+Cloud Deployment
 
 </td>
 
 </tr>
 </table>
+
+</div>
+
+---
+
+# 🛠️ `./technology-stack`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,sql"/>
+
+<br/><br/>
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode"/>
 
 </div>
 
@@ -193,11 +244,11 @@ End-to-End Apps
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Let's+build+something+intelligent.;Data+%E2%86%92+AI+%E2%86%92+Product+%E2%86%92+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Let's+build+something+intelligent.;Data+%E2%86%92+AI+%E2%86%92+Software+%E2%86%92+Impact"/>
 
 <br/><br/>
 
-### 🟢 `BUILDING INTELLIGENT SYSTEMS FROM DATA`
+### 🟢 `BUILDING INTELLIGENT SOFTWARE SYSTEMS FROM DATA`
 
 </div>
 
