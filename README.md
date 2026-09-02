@@ -55,14 +55,14 @@
 ```text
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
-│   👨‍💻 AKARSHAN RASYAL                                       │
+│   👨‍💻 AKARSHAN RASYAL                                     │
 │                                                            │
-│   MSc Data Science Graduate                                │
-│   AI • Data Science • Machine Learning • Software          │
+│   MSc Data Science Graduate                               │
+│   AI • Data Science • Machine Learning • Software         │
 │                                                            │
-│   📍 Newcastle upon Tyne, UK                               │
+│   📍 Newcastle upon Tyne, UK                              │
 │                                                            │
-│   STATUS: Building intelligent systems 🚀                  │
+│   STATUS: Building intelligent systems 🚀                 │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -71,13 +71,13 @@
 
 # 🧑‍💻 `$ whoami`
 
-I'm an **MSc Data Science graduate** and **BSc Computer Science graduate**, specialising in **Data Science, Software Development, Machine Learning and Artificial Intelligence**.
+I'm an **MSc Data Science graduate** and **BSc Computer Science graduate**, specialising in **Data Science, Machine Learning, Artificial Intelligence and Python Software Development**.
 
 I enjoy solving real-world problems through **data and software**, building complete systems from initial ideas to production-ready applications.
 
-My work combines **data processing, machine learning, AI, backend development, software engineering and cloud deployment**.
+My work combines **data processing, machine learning, AI, Python backend development, API development, software engineering and cloud deployment**.
 
-I build **end-to-end applications** — from data pipelines and intelligent models to APIs, backend systems, user-facing applications and deployment.
+I build **end-to-end applications** — from data pipelines and intelligent models to Python APIs, backend systems, user-facing applications and production deployment.
 
 My work spans **customer intelligence, forecasting, NLP, computer vision, AI-powered applications and software systems**.
 
@@ -105,12 +105,12 @@ My work spans **customer intelligence, forecasting, NLP, computer vision, AI-pow
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Software%20Development-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python%20Development-00FF88?style=for-the-badge&logo=python&logoColor=0D1117"/>
 <img src="https://img.shields.io/badge/Backend%20Development-00D9FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/API%20Development-7F00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-00FF88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-00D9FF?style=for-the-badge&logo=openjdk&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/C%23-7F00FF?style=for-the-badge&logo=dotnet&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/REST%20APIs-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-00D9FF?style=for-the-badge&logo=fastapi&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Software%20Architecture-7F00FF?style=for-the-badge"/>
 
 </p>
 
@@ -169,9 +169,9 @@ Model Evaluation
 
 ### SOFTWARE SYSTEMS
 
-APIs
-Backend Development
-Software Architecture
+Python Backends
+REST APIs
+Backend Architecture
 End-to-End Applications
 Cloud Deployment
 
@@ -188,15 +188,21 @@ Cloud Deployment
 
 <div align="center">
 
-### Languages
+### Languages & Data
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,sql"/>
+<img src="https://skillicons.dev/icons?i=python,postgres"/>
 
 <br/><br/>
 
-### Development & Tools
+### Backend & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode"/>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode"/>
+
+<br/><br/>
+
+### Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=docker,aws"/>
 
 </div>
 
